@@ -20,12 +20,6 @@ appear as a separate residual instead of being quietly blamed on the data.
 net install whodropped, from("https://raw.githubusercontent.com/alicakyol/whodropped/main") replace
 ```
 
-Or, once it is on SSC:
-
-```stata
-ssc install whodropped
-```
-
 ## Use
 
 ```stata
