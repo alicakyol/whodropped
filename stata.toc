@@ -1,0 +1,5 @@
+v 3
+d Ali C. Akyol — Stata packages
+d Telfer School of Management, University of Ottawa
+d
+p whodropped   which variables cost you observations?

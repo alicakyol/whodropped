@@ -1,0 +1,19 @@
+v 3
+d whodropped: which variables cost you observations?
+d
+d whodropped reports, for each variable in a specification, how many
+d observations it is missing for, how many observations it alone is
+d responsible for losing, and the marginal cost of imposing it. Run
+d after an estimation command it also reconciles the complete-case
+d count against e(sample), so that losses which are not due to missing
+d values appear as a separate residual.
+d
+d Requires: Stata version 14
+d
+d Distribution-Date: 20260828
+d
+d Author: Ali C. Akyol, Telfer School of Management, University of Ottawa
+d Support: email aliakyol@outlook.com
+d
+f whodropped.ado
+f whodropped.sthlp
