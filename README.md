@@ -17,7 +17,7 @@ appear as a separate residual instead of being quietly blamed on the data.
 ## Install
 
 ```stata
-net install whodropped, from("https://raw.githubusercontent.com/USERNAME/whodropped/main") replace
+net install whodropped, from("https://raw.githubusercontent.com/alicakyol/whodropped/main") replace
 ```
 
 Or, once it is on SSC:
